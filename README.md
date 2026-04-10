@@ -8,7 +8,7 @@
 [![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-QLoRA%20%7C%20LoRA-green.svg)]()
 [![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Selenium%20%7C%20BeautifulSoup-orange.svg)]()
 
-🔗 **GitHub Repo:** https://github.com/sumits234/Fine-tuning-a-LLM-to-Create-a-Finance-Domain-chatbot
+🔗 **GitHub Repo:** https://github.com/majhisovana04/Fine-tuning-an-LLM-to-Create-a-Finance-Domain-chatbot
 
 </div>
 
